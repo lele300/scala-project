@@ -62,6 +62,8 @@ object Functions extends App {
     else fibonanaciFunction(number - 1) + fibonanaciFunction(number - 2)
   }
 
+  // 1 1 2 3 5 8 13 21
+
   println(fibonanaciFunction(8))
 
   //4.
