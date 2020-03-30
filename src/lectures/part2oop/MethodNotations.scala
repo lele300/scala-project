@@ -71,5 +71,4 @@ object MethodNotations extends App {
   println(mary learnsScala)
   println(mary(10))
 
-
 }

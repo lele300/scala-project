@@ -47,7 +47,7 @@ object Expressions extends App {
     val y = 2
     val z = y + 1
 
-    if(z > 2) "hello" else "goodbye"
+    if(z > 2) "Guillermo viado" else "goodbye"
   }
 
   // 1. Difference between "hello world" vs println("hello world")
